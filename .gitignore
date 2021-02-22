@@ -1,1 +1,6 @@
-
+.gitignore
+3D Image/
+address data/
+DSM/
+DTM/
+search address data/
