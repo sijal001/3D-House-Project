@@ -57,8 +57,10 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 
 **Important link**
-***Method 1:*** Manually download throught the link
-***Method 2:*** Download automatically using "Download DSM_DTM.ipynb" 
+* ***Method 1:*** Manually download throught the link
+* ***Method 2:*** Download automatically using "Download DSM_DTM.ipynb" 
+
+
 Download all the file from link save to the respective folder.
 Unzip all the folder and delete the zip folders.
 
