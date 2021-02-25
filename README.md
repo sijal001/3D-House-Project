@@ -29,30 +29,50 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 ---
 
-# About the code
+# About Running the Program
 ---
 * **Python version:** 3.8.0
 * **Storage Requirement:** 80 GB 
-
-**Important link**
-* [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
-* [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
-
 
 **Imporant Libaries:**
 
 * os
 * shutil
 * folium
-* rioxarray 
+* rioxarray
 * numpy
 * plotly
-* glob  
+* glob
 * osgeo
 * pyproj
 * natsort
 * geopy
-* rasterio  
+* rasterio
 
-**Note:** just use command below to install the required libary with correct version to run the program smoothly.
+**Note:** Just use command below to install the required libary with correct version to run the program smoothly.
 "pip install -r requiement.txt"
+
+
+**Important link**
+> Download all the file from link save to the respective folder.
+> Unzip all the folder and delete the zip folders.
+
+* [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
+* [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
+
+
+# Directory
+---
+#### 3D Image
+This directory contains all 3d image of the location that ever searched.
+
+#### DTM
+This directory should contains all the '.tif' files downloaded from [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
+
+#### DSM
+This directory should contains all the '.tif' files downloaded from [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
+
+#### search address data
+This directory contains the '.tif' files of dsm, dtm and canopy height model of all search location.
+
+
