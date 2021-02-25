@@ -1,11 +1,16 @@
 # 3D-House-Project
 
-* Repository: 3D_houses
-* Type of Challenge: Learning & Consolidation
-* Duration: 2 weeks
-* Deadline: 25/02/21 5:00 PM
-* Deployment strategy : Github page | Powerpoint | Jupyter Notebook | Webpage | App
-* Team challenge : solo
+- Repository: `3D_houses`
+- Type of Challenge: `Learning & Consolidation`
+- Duration: `2 weeks`
+- Deadline: `25/02/21 5:00 PM`
+- Deployment strategy :
+     Github page
+    | Powerpoint
+    | Jupyter Notebook
+    | Webpage
+    | App
+- Team challenge : `solo`
 
 # Mission objectives
 
@@ -34,7 +39,6 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 # About Running the Program
 
 * **Python version:** 3.8.0
-* **Storage Requirement:** 80 GB 
 
 **Imporant Libaries:**
 
@@ -56,7 +60,10 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 "pip install -r requiement.txt"
 
 
-**Important link**
+# **DSM and DTM data**
+
+* **Storage Requirement:** 80 GB 
+
 * ***Method 1:*** Manually Download all the file from link save to the respective folder. Unzip all the folder and delete the zip folders.
     * [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
     * [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
@@ -66,17 +73,17 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 # Directory
 
-* ***3D Image***
-This directory contains all 3d image of the location that ever searched.
+* ***3D Image:***
+ This directory contains all 3d image of the location that ever searched.
 
-* ***DTM***
-This directory should contains all the '.tif' files downloaded from [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
+* ***DTM:***
+ This directory should contains all the '.tif' files downloaded from [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
 
-* ***DSM***
-This directory should contains all the '.tif' files downloaded from [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
+* ***DSM:***
+ This directory should contains all the '.tif' files downloaded from [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
 
-* ***search address data***
-This directory contains the '.tif' files of dsm, dtm and canopy height model of all search location.
+* ***search address data:***
+ This directory contains the '.tif' files of dsm, dtm and canopy height model of all search location.
 
 ---
 
@@ -87,4 +94,4 @@ This directory contains the '.tif' files of dsm, dtm and canopy height model of 
 * Run the "3d_house.ipynb" in jupyter notebook
 * Enter the address in the given format.
 * Run all code
-* recieve the 3D_proting of the location.
+* recieve the 3D_proting and image of the location.
