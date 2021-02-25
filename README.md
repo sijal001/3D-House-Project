@@ -1,11 +1,11 @@
 # 3D-House-Project
 
-Repository: 3D_houses
-Type of Challenge: Learning & Consolidation
-Duration: 2 weeks
-Deadline: 25/02/21 5:00 PM
-Deployment strategy : Github page | Powerpoint | Jupyter Notebook | Webpage | App
-Team challenge : solo
+* Repository: 3D_houses
+* Type of Challenge: Learning & Consolidation
+* Duration: 2 weeks
+* Deadline: 25/02/21 5:00 PM
+* Deployment strategy : Github page | Powerpoint | Jupyter Notebook | Webpage | App
+* Team challenge : solo
 
 # Mission objectives
 
@@ -57,6 +57,8 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 
 **Important link**
+***Method 1:*** Manually download throught the link
+***Method 2:*** Download automatically using "Download DSM_DTM.ipynb" 
 Download all the file from link save to the respective folder.
 Unzip all the folder and delete the zip folders.
 
