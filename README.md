@@ -58,11 +58,10 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 **Important link**
 * ***Method 1:*** Manually Download all the file from link save to the respective folder. Unzip all the folder and delete the zip folders.
+    * [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
+    * [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
+
 * ***Method 2:*** Run "Download DSM_DTM.ipynb" to do process automatically.
-
-* [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
-* [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
-
 
 
 # Directory
