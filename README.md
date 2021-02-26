@@ -31,7 +31,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 
 # About Running the Program
 
-* **Python version:** 3.8.0
+* **Python version:** `3.8.0`
 
 **Imporant Libaries:**
 
@@ -70,7 +70,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 # Architecture
 
 ```
-3d-house-project
+3D-House-Project
 │   README.md               :explains the project
 │   requirements.txt        :packages to install to run the program
 │   .gitignore              :specifies which files to ignore when pushing to the repository
@@ -80,8 +80,8 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 │   
 │   3D Image          	    :directory contains all 3d image of the location that ever searched.
 │   search address data	    :directory contains the '.tif' files of dsm, dtm and canopy height model of all search addresses.
-│   DTM		    	    :directory contains all the DTM '.tif' files downloaded from [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m)
-│   DSM		    	    :directory contains all the DSM '.tif' files downloaded from [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m)
+│   DTM		    	    :directory contains all the DTM '.tif' files.
+│   DSM		    	    :directory contains all the DSM '.tif' files.
 ```
 
 ---
@@ -95,9 +95,9 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 4. Run the `3d_house.ipynb` in jupyter notebook
 5. Enter the address in the given format.
 6. Run all code
-7. Recieve the 3D_proting and image of the location.
+7. Recieve interactive 3D diagram and '.png' format image of the location.
 
-
+---
 # Next Step
 
 * Optimize code to have the result as fast as possible.
