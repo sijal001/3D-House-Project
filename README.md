@@ -38,13 +38,13 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 | Library       | Used to                                        |
 | ------------- | :----------------------------------------------|
 | folium	|to manipulate data then visualize it in a map   |
-| geopy		|to get the longtitude and latitude of a address |
+| geopy		|to get the longitude and latitude of a address |
 | glob		|to get all the file with given extension        |
 | natsort	|to sort files with number in the file		 |
 | numpy		|to work around multi-dimensional of generic data|
 | os		|to work around system path.			 |
 | osgeo		|to work raster file as a GDALDataset  		 |
-| plotly	|to genereate interactive 3d ploting             |
+| plotly	|to genereate interactive 3d plotting             |
 | pyproj	|transform 'EPSG:4326' to 'EPSG:31370' coordinate|
 | rasterio	|to open '.tif' file to calculate canopy height  |
 | rioxarray	|load raster metadata support masking and scaling|
@@ -76,7 +76,7 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 │   .gitignore              :specifies which files to ignore when pushing to the repository
 │
 │   Download DSM_DTM.ipynb  :script to download all DSM and DTM files, unzip it and delete zip files.
-│   3d_house.ipynb          :script to run in order to start the program
+│   3d_House.ipynb          :script to run in order to start the program
 │   
 │   3D Image          	    :directory contains all 3d image of the location that ever searched.
 │   search address data	    :directory contains the '.tif' files of dsm, dtm and canopy height model of all search addresses.
@@ -87,14 +87,14 @@ We are LIDAR PLANES , active in the Geospatial industy. We would like to use our
 ---
 
 # Instruction
-#### How to get 3d_location ploting
+#### How to get 3d_location plotting
 
-1. Setup python environment  `3.8.0`
-2. Install all libaries `pip install -r requirements.txt`
-3. Download important ".tif" files `Download DSM_DTM.ipynb`
-4. Run the `3d_house.ipynb` in jupyter notebook
+1. Setup python environment  `3.8.0`.
+2. Install all libaries `pip install -r requirements.txt`.
+3. Download important ".tif" files `Download DSM_DTM.ipynb`.
+4. Run the `3d_house.ipynb` in jupyter notebook.
 5. Enter the address in the given format.
-6. Run all code
+6. Run all code.
 7. Recieve interactive 3D diagram and '.png' format image of the location.
 
 ---
